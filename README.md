@@ -9,4 +9,8 @@ This application brings back the Navigation shortcut to your Android Device.
 
 This will only work if you have Google Maps installed on your device.
 
+### Want the APK?
+
+[Download it here](build-assets/Navigation.apk)
+
 ![Navigation](build-assets/1024x500.png)
